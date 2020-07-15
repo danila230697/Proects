@@ -54,6 +54,6 @@ public class Zadanie {
         ChangeArray(mascheck);
 //Отобразил список для того чтобы проверить а записан ли массив. Всё удачно(я так думаю).
         System.out.println(listarray);
-
+//Проверяю тебя на гитхабе
     }
 }
