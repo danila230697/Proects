@@ -38,7 +38,7 @@ public class Zadanie {
 пользователь решает какие менять элементы
  */
         Scanner scanner =new Scanner(System.in);
-        System.out.println("Введите от 0 до 10 какие два элемента массива хотите поменять местами");
+        System.out.println("Введите от 0 до 9 какие два элемента массива хотите поменять местами");
 
         first=scanner.nextInt();
         second=scanner.nextInt();
